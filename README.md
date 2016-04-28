@@ -4,8 +4,10 @@ Este es el repositorio central de la cátedra de Java de UTN FRRo.
 El repositorio anterior con ejemplos y ejercicios de la cursada 2015 ha sido movido a esta [url](https://github.com/utnfrrojava/java2015).
 
 ## Novedades
+  2016/04/28 - El ***viernes 29/04*** no habrá clases. Debido al paro de los no-docentes no se podrá tener acceso a los laboratorios con lo cual no podrá dictarse la clase.
+
   2016/04/20 - La consulta de Adrián Meca del jueves 21/04 pasa al lunes 25/4 en el mismo horario.
-  
+
   2016/04/10 - La consulta de Adrián Meca del jueves 14/04 pasa al miércoles 13/04 en el mismo horario.
 
 ## Sistema Final
